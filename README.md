@@ -1,2 +1,2 @@
 # prox-wavelet
-Non-smooth optimization methods for image denoisening by using wavelet transform. 
+Non-smooth optimization methods for image denoising by using wavelet transform. 
